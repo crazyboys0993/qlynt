@@ -1,3 +1,7 @@
-qlynt - Ein Minecraft Java Client für Mobilgeräte und Konsolen
+Addons for the qlynt Minecraft Client
 
-Aktuell in Entwicklung, Release Datum unbekannt
+About qlynt: A Minecraft Java Edition Client for non-PC devices
+Release for qlynt:
+- confirmed: Android
+- not confirmed: PS4, Xbox
+- no release: iOS
